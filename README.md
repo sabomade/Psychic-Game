@@ -1,7 +1,7 @@
 # Psychic-Game
 Simple letter guess game
 
-![Image of Letter Guess Game](assets/images/psychic-game.png | width=400)
+![Image of Letter Guess Game](assets/images/psychic-game2.png)
 
 ### How to Play
 Type any letter to begin. You have 10 tries to guess what letter the computer is *thinking* of. When you win or lose, your score is updated.  This is a never ending game.
