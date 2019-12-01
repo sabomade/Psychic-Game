@@ -7,8 +7,7 @@ Simple letter guess game
 Type any letter to begin. You have 10 tries to guess what letter the computer is *thinking* of. When you win or lose, your score is updated.  This is a never ending game.
 
 ## Built With
-* [Bootstrap](https://getbootstrap.com/) - responsive framework for web
-* [Google Fonts](https://fonts.google.com/) - open source typography catalog
+* html
 * Javascript
 
 ## Versioning & Author
