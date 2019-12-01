@@ -1,5 +1,5 @@
 # Psychic-Game
-Simple letter guess game
+Simple letter guess game. Interactive web app, dynamically updated HTML & CSS based on javascript.
 
 ![Image of Letter Guess Game](assets/images/psychic-game2.png)
 
